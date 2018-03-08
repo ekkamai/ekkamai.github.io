@@ -1072,7 +1072,7 @@ label.error {
 		display: block;
 	}
 	.pb-90{
-		padding-bottom:40px;
+		padding-bottom:0px;
 	}
 	.pt-90{
 		padding-top:40px;
@@ -1102,10 +1102,9 @@ label.error {
 		padding-top:50px;
 	}
 	.pb-120{
-		padding-bottom:60px;
+		padding-bottom:0px;
 	}
 	.pt-120{
-		/* padding-top:60px; */
 		padding-top:0px;
 	}
 	.ptb-120{
@@ -1158,7 +1157,7 @@ label.error {
 		margin:0 5px 20px;
 	}
 	.pb-90{
-		padding-bottom:40px;
+		padding-bottom:0px;
 	}
 	.pt-90{
 		padding-top:40px;
